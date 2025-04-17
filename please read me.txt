@@ -1,0 +1,1 @@
+make sure the menu.txt and 2A_G4.cpp are in a same file
